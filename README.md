@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 Typescript, React, NextJs, NodeJs, Python, Django
+⚡ Fun fact: 22. y.o. Suka hacking semenjak MTs, lalu pensiun hingga mulai aktif di dunia IT lagi tahun 2020.
+
 
 <!--
 **Iqbaladudu/iqbaladudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
